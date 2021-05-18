@@ -16,8 +16,7 @@ This is a covid track App. You can view the world wide infected people, recovery
 ##  :red_circle: Live Demo:
 
 [Live demo](http://testaccounts.xyz/)
-
-[Screen Shot] (./screen.png)
+![screenshots](./screen.png)
 
 ##  :construction_worker: Getting Started
 
